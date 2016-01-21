@@ -31,3 +31,6 @@ android:
 
 script: 
     - "./gradlew build"
+    
+notifications:
+  slack: ict2105:yGWj8hzSj1KfsN2G2OCpYe16
