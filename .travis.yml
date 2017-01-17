@@ -33,6 +33,6 @@ script:
     - "./gradlew build"
     
 notifications:
-  slack: ict2105-2016:yGWj8hzSj1KfsN2G2OCpYe16
+  slack: ict2105:PNXMGobtKXUUl2Gvq3jVhyU0
 
   
